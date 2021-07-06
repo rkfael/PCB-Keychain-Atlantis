@@ -21,3 +21,7 @@ Editable project access: [*EasyEDA*](https://oshwlab.com/rkfael/chaveiro-atari-a
 **Figure 3 - Picture Atlantis Keychain**
 
 ![showcase](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/rootimages/Figura%203%20-%20Atlantis%20.jpg)
+
+## More about it:
+
+For more pictures and PCB ideias check my instagram profile [@notas_eletronicas](https://www.instagram.com/notas_eletronicas/)
