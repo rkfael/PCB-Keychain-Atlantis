@@ -4,9 +4,11 @@
 
 A creative idea for PCB art design.
 
-I made this PCB Keychain using the [*EasyEDA*](https://easyeda.com) software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
+I made this PCB Keychain using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
 
-Prodution File: [Gerber](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/Gerber_PCB_Keychain_Atlantis.zip)
+Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/Gerber_PCB_Keychain_Atlantis.zip)
+
+Editable project access: [*EasyEDA*](https://oshwlab.com/rkfael/chaveiro-atari-atlantis)
 
 **Figure 1 - Top Side**
 
