@@ -12,6 +12,8 @@ Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Keychain-Atlanti
 
 Editable project access: [*EasyEDA*](https://oshwlab.com/rkfael/chaveiro-atari-atlantis)
 
+How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
+
 **Figure 1 - Top Side**
 
 ![showcase](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/rootimages/Figura%201%20-%20Top%20Side.png)
