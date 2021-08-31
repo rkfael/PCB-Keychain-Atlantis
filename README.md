@@ -30,4 +30,4 @@ YouTube: [Video](https://youtu.be/-1-OzBQA7hA)
 
 ## More about it:
 
-For more pictures and PCB ideias check my instagram profile [@notas_eletronicas](https://www.instagram.com/notas_eletronicas/)
+For more pictures and PCB ideas check my instagram profile [@notas_eletronicas](https://www.instagram.com/notas_eletronicas/)
