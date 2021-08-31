@@ -14,6 +14,8 @@ Editable project access: [*EasyEDA*](https://oshwlab.com/rkfael/chaveiro-atari-a
 
 How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
+YouTube: [Video](https://youtu.be/-1-OzBQA7hA)
+
 **Figure 1 - Top Side**
 
 ![showcase](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/rootimages/Figura%201%20-%20Top%20Side.png)
