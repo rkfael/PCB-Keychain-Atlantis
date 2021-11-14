@@ -28,6 +28,14 @@ YouTube: [Video](https://youtu.be/-1-OzBQA7hA)
 
 ![showcase](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/rootimages/Figura%203%20-%20Atlantis%20.jpg)
 
+**Figure 4 - Picture Atlantis Keychain - TOP (White)**
+
+![showcase](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/rootimages/Figura%204%20-%20TOP.jpg)
+
+**Figure 5 - Picture Atlantis Keychain - BOTTOM (White)**
+
+![showcase](https://github.com/rkfael/PCB-Keychain-Atlantis/blob/main/rootimages/Figura%205%20-%20BOTTOM.jpg)
+
 ## More about it:
 
 For more pictures and PCB ideas check my instagram profile [RKfael - PCB Design](https://www.instagram.com/rkfael_pcb_design/)
